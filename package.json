@@ -1,0 +1,23 @@
+{
+    "name": "antz-config",
+    "version": "1.0.0",
+    "description": "",
+    "main": "bootstrap.js",
+    "isdebug": true,
+    "author": "marchuan van der merwe",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/marchuanv/antz-config/issues"
+    },
+    "engines": {
+        "engines": {
+            "node": "8.11.3",
+            "npm": "4.2.0"
+        }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marchuanv/antz-config.git"
+    },
+    "homepage": "https://github.com/marchuanv/antz-config#readme"
+}
